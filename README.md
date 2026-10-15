@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <img alt="Sajeevan R S — frontend and product engineer" src="./assets/banner-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark-2.svg">
+  <img alt="Sajeevan R S — frontend and product engineer" src="./assets/banner-light-2.svg">
 </picture>
 
 Six years building production web and mobile products in **React, React Native and
