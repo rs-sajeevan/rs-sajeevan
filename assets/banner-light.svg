@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 330" width="1280" height="330" role="img" aria-label="Sajeevan R S, frontend and product engineer. Pipeline: design brief, Figma, Figma MCP, code, token audit, accessibility audit.">
+  <defs><clipPath id="f"><rect width="1280" height="330"/></clipPath></defs>
+  <rect width="1280" height="330" fill="#E9F0FB"/>
+  <g clip-path="url(#f)"><circle cx="1246" cy="142" r="188" fill="#A33B45" opacity="0.10"/></g>
+  <rect x="0" y="0" width="5" height="330" fill="#A33B45"/>
+  <g font-family="ui-sans-serif,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+    <text x="72" y="106" fill="#253037" font-size="56" font-weight="700" letter-spacing="-1.4">Sajeevan R S</text>
+    <text x="72" y="147" fill="#A33B45" font-size="19" font-weight="700" letter-spacing="3">FRONTEND &amp; PRODUCT ENGINEER</text>
+    <text x="72" y="189" fill="#4D5A7A" font-size="19">I design the screen, then I ship the code.</text>
+    <g font-size="15" fill="#4D5A7A">
+      <rect x="72"  y="228" width="168" height="40" rx="5" fill="#FFFFFF" stroke="#B1BAC9"/><text x="156" y="253" text-anchor="middle">design brief</text>
+      <rect x="268" y="228" width="128" height="40" rx="5" fill="#FFFFFF" stroke="#B1BAC9"/><text x="332" y="253" text-anchor="middle">Figma</text>
+      <rect x="424" y="228" width="184" height="40" rx="5" fill="#A33B45" stroke="#A33B45"/><text x="516" y="253" text-anchor="middle" fill="#FFFFFF" font-weight="700">Figma MCP</text>
+      <rect x="636" y="228" width="128" height="40" rx="5" fill="#FFFFFF" stroke="#B1BAC9"/><text x="700" y="253" text-anchor="middle">code</text>
+      <rect x="792" y="228" width="160" height="40" rx="5" fill="#FFFFFF" stroke="#B1BAC9"/><text x="872" y="253" text-anchor="middle">token audit</text>
+      <rect x="980" y="228" width="160" height="40" rx="5" fill="#FFFFFF" stroke="#B1BAC9"/><text x="1060" y="253" text-anchor="middle">a11y audit</text>
+    </g>
+    <g stroke="#B1BAC9" stroke-width="1.4"><path d="M244 248h16M400 248h16M612 248h16M768 248h16M956 248h16"/></g>
+    <text x="72" y="306" fill="#4D5A7A" font-size="13.5" opacity=".9">React · React Native · TypeScript · design systems · accessibility · AI-assisted delivery</text>
+  </g>
+</svg>
