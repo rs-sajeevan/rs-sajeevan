@@ -1,21 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 330" width="1280" height="330" role="img" aria-label="Sajeevan R S, frontend and product engineer. Pipeline: design brief, Figma, Figma MCP, code, token audit, accessibility audit.">
-  <defs><clipPath id="f"><rect width="1280" height="330"/></clipPath></defs>
-  <rect width="1280" height="330" fill="#11171B"/>
-  <g clip-path="url(#f)"><circle cx="1246" cy="142" r="188" fill="#A33B45" opacity="0.16"/></g>
-  <rect x="0" y="0" width="5" height="330" fill="#D9646F"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 260" width="1280" height="260" role="img" aria-label="Sajeevan R S — frontend and product engineer. I design the screen, then I ship the code.">
+  <rect width="1280" height="260" fill="#11171B"/>
+  <rect x="72" y="52" width="44" height="3" fill="#D9646F"/>
   <g font-family="ui-sans-serif,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
-    <text x="72" y="106" fill="#E9F0FB" font-size="56" font-weight="700" letter-spacing="-1.4">Sajeevan R S</text>
-    <text x="72" y="147" fill="#D9646F" font-size="19" font-weight="700" letter-spacing="3">FRONTEND &amp; PRODUCT ENGINEER</text>
-    <text x="72" y="189" fill="#B1BAC9" font-size="19">I design the screen, then I ship the code.</text>
-    <g font-size="15" fill="#B1BAC9">
-      <rect x="72"  y="228" width="168" height="40" rx="5" fill="#1C242A" stroke="#2E3A42"/><text x="156" y="253" text-anchor="middle">design brief</text>
-      <rect x="268" y="228" width="128" height="40" rx="5" fill="#1C242A" stroke="#2E3A42"/><text x="332" y="253" text-anchor="middle">Figma</text>
-      <rect x="424" y="228" width="184" height="40" rx="5" fill="#D9646F" stroke="#D9646F"/><text x="516" y="253" text-anchor="middle" fill="#11171B" font-weight="700">Figma MCP</text>
-      <rect x="636" y="228" width="128" height="40" rx="5" fill="#1C242A" stroke="#2E3A42"/><text x="700" y="253" text-anchor="middle">code</text>
-      <rect x="792" y="228" width="160" height="40" rx="5" fill="#1C242A" stroke="#2E3A42"/><text x="872" y="253" text-anchor="middle">token audit</text>
-      <rect x="980" y="228" width="160" height="40" rx="5" fill="#1C242A" stroke="#2E3A42"/><text x="1060" y="253" text-anchor="middle">a11y audit</text>
-    </g>
-    <g stroke="#2E3A42" stroke-width="1.4"><path d="M244 248h16M400 248h16M612 248h16M768 248h16M956 248h16"/></g>
-    <text x="72" y="306" fill="#B1BAC9" font-size="13.5" opacity=".9">React · React Native · TypeScript · design systems · accessibility · AI-assisted delivery</text>
+    <text x="72" y="128" fill="#E9F0FB" font-size="58" font-weight="700" letter-spacing="-1.6">Sajeevan R S</text>
+    <text x="72" y="166" fill="#D9646F" font-size="17" font-weight="700" letter-spacing="3.2">FRONTEND &amp; PRODUCT ENGINEER</text>
+    <text x="72" y="206" fill="#B1BAC9" font-size="19">I design the screen, then I ship the code.</text>
   </g>
+  <rect x="0" y="257" width="1280" height="3" fill="#1F272C"/>
 </svg>
